@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyahandore&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyahandore" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyahandore" alt="chaitanyahandore" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chaitanyahandore&theme=monokai" alt="chaitanyahandore" />
+  </a> 
+</p>>
 
 <p align="left"> <a href="https://twitter.com/@chaitanyahando1" target="blank"><img src="https://img.shields.io/twitter/follow/@chaitanyahando1?logo=twitter&style=for-the-badge" alt="@chaitanyahando1" /></a> </p>
 
