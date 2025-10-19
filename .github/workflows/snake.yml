@@ -17,7 +17,6 @@ jobs:
         with:
           github_user_name: ChaitanyaHandore
           snake_animation_speed: 1     # 🐍 Fast + smooth animation
-          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark-minimal
 
       - name: Upload Generated Files
         uses: crazy-max/ghaction-github-pages@v3
