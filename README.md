@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=180&section=header&text=Chaitanya%20Handore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Software%20Developer%20|%20Data%20Science%20Enthusiast&descAlignY=51&descAlign=50"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Chaitanya%20Handore&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20|%20Software%20Developer%20|%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MSc+in+Artificial+Intelligence+Student+🎓;Machine+Learning+%26+Deep+Learning+Enthusiast+🤖;Building+Smart+Solutions+with+Python+💻;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
