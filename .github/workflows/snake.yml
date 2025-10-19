@@ -12,14 +12,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Minimal Dark)
         uses: Platane/snk@v3
         with:
           github_user_name: ChaitanyaHandore
-          snake_animation_speed: 1       # 🐍 Added here (1 = fastest)
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          snake_animation_speed: 1     # 🐍 Fast + smooth animation
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark-minimal
 
       - name: Upload Generated Files
         uses: crazy-max/ghaction-github-pages@v3
