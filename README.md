@@ -4,8 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=180&section=header&text=Chaitanya%20Handore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Software%20Developer%20|%20Data%20Science%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MSc+in+Artificial+Intelligence+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+Smart+Solutions+with+Python;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&background=0D1117&lines=MSc+in+Artificial+Intelligence+Student+🎓;Machine+Learning+%26+Deep+Learning+Enthusiast+🤖;Building+Smart+Solutions+with+Python+💻;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
 </p>
+
 
 <!-- Social Badges -->
 <p align="center">
