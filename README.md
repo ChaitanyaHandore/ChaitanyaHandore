@@ -155,7 +155,7 @@ me.say_hi()
 
 ### 🐍 **Watch My Contribution Graph Come Alive!**
 
-![Snake animation](https://raw.githubusercontent.com/ChaitanyaHandore/ChaitanyaHandore/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://cdn.jsdelivr.net/gh/ChaitanyaHandore/ChaitanyaHandore@output/github-contribution-grid-snake-dark.svg)
 
 ---
 
